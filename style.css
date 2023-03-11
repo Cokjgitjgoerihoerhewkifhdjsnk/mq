@@ -1,0 +1,62 @@
+.body-background
+{
+	background-image:url("bdac327b05ddaa05216dfa08c9e734c3.jpg") ;
+	background-size:cover;
+	background-position:unset;
+}
+.login_div
+	{
+		background: rgb(255, 255, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 700px;
+	}
+#btn_1{
+	background-color:rgb(244, 70, 212) ;
+	display:inline;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 10px;
+	color: white;
+}
+#player1_score , #player2_score
+{
+	display: inline-block;
+	font-weight: bold;
+	color: white;
+
+}
+
+
+#no ,#no1
+{
+	width: 60%;
+}
+#no::placeholder{
+	color: blue;
+}
+#no1::placeholder{
+	color: blue;
+}
+#no_display
+{
+	letter-spacing: 5px;
+}
+#no1_display
+{
+	letter-spacing: 5px;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
